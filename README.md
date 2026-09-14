@@ -107,7 +107,6 @@ For complete Windows and VS Code instructions, read [Installation](docs/INSTALLA
 
 - [Documentation index](docs/README.md)
 - [Complete project report](docs/PROJECT_REPORT.md)
-- [College demo and viva guide](docs/COLLEGE_DEMO.md)
 - [Features and implementation status](docs/FEATURES.md)
 - [Architecture and data flow](docs/ARCHITECTURE.md)
 - [API reference](docs/API_REFERENCE.md)
