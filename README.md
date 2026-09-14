@@ -116,7 +116,6 @@ For complete Windows and VS Code instructions, read [Installation](docs/INSTALLA
 - [Testing guide](docs/TESTING.md)
 - [Verification report](docs/VERIFICATION.md)
 - [Deployment guide](docs/DEPLOYMENT.md)
-- [VS Code to GitHub push guide](docs/GITHUB_PUSH_GUIDE.md)
 - [File-by-file reference](docs/FILE_REFERENCE.md)
 - [Security policy](SECURITY.md)
 - [Contribution guide](CONTRIBUTING.md)
