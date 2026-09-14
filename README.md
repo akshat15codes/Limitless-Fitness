@@ -56,7 +56,7 @@ See [Known limitations](#known-limitations) before production use.
 ### Run locally
 
 ```bash
-git clone https://github.com/sarveshchaudhary0021/Limitless-Fitness-.git
+git clone https://github.com/akshat15codes/Limitless-Fitness.git
 cd Limitless-Fitness-
 npm ci
 ```
